@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hr-Challenge</string>
+
+    <string name="main_points">Запрос определенного количества точек</string>
+    <string name="main_points_restrict">Можно запросить от 1 до 1000 точек</string>
+    <string name="main_count">Число точек</string>
+    <string name="main_action">Поехали</string>
+    <string name="main_table">Таблица</string>
+    <string name="main_chart">График</string>
+</resources>
